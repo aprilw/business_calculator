@@ -1,0 +1,1 @@
+web: bundle exec ruby data_parser.rb -p $PORT
